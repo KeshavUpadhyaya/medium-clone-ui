@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiURL: 'https://medium-clone-ku.herokuapp.com'
 };
